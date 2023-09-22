@@ -6,3 +6,9 @@
 > It is python. <br>
 > Can use without powershell knowledge. <br>
 > Super easy to edit.
+
+### To-do
+* Increase code readability
+* Code objectification (Python Class)
+* Add Many Hyper-V powershell commands
+* If this gets popular, create docs.
